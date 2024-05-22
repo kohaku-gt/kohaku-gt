@@ -29,3 +29,5 @@ function showAlert() {
                 alert("Anda memilih untuk membatalkan.");
             }
         }
+
+// SAYA MENAMBAHKAN BEBERAPA KODING JS UNTUK MEMBUAT WEBSITE MENJADI LEBIH MENARIK
