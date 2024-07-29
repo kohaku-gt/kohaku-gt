@@ -13,7 +13,7 @@
   
 -  I'm currently learning on Nurul Jadid Islamic Colage, exactley at Vacation High School Nurul Jadid
 
-<img alt="Coding" width="600" height="400" align="center" src="g.gif">
+<img alt="Coding" width="700" height="400" align="center" src="g.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
