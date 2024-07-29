@@ -31,3 +31,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kohaku-gt&show_icons=true&locale=en&layout=compact" alt="bayu1s" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kohaku-gt&show_icons=true&locale=en" alt="bayu1s" /></p>
+
+<img alt="Coding" width="1000" height="300" align="center" src="g.gif">
