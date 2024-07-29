@@ -16,10 +16,6 @@
 
 -  I'm live on indonesia exactley east java
 
-- My Waifu is Violet hehe;V
-  <img align="right" alt="Coding" width="250" height="400" src="waifu.png">
-  <img align="right" alt="Coding" width="250" height="400" src="waifu1.png">
-<img align="right" alt="Coding" width="250" height="400" src="waifu2.png">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,4 +32,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kohaku-gt&show_icons=true&locale=en&layout=compact" alt="bayu1s" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kohaku-gt&show_icons=true&locale=en" alt="bayu1s" /></p>
 
+<br>
+- My Waifu is Violet hehe;V
+  <img align="right" alt="Coding" width="250" height="400" src="waifu.png">
+  <img align="right" alt="Coding" width="250" height="400" src="waifu1.png">
+<img align="right" alt="Coding" width="250" height="400" src="waifu2.png">
 
