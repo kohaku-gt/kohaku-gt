@@ -14,6 +14,8 @@
   
 -  I'm currently learning on Nurul Jadid Islamic Colage, exactley at Vacation High School Nurul Jadid
 
+-  I'm live on indonesia exactley east java
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
