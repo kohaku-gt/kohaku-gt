@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I think my mind is weird and My Brain is always blank XD**
   
--  - I'm currently learning on Nurul Jadid Islamic Colage, exactley at Vacation High School Nurul Jadid
+-  I'm currently learning on Nurul Jadid Islamic Colage, exactley at Vacation High School Nurul Jadid
 
 
 <h3 align="left">Connect with me:</h3>
