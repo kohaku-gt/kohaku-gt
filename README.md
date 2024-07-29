@@ -54,9 +54,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kohaku-gt&show_icons=true&locale=en&layout=compact" alt="bayu1s" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kohaku-gt&show_icons=true&locale=en" alt="bayu1s" /></p>
 
-<h3 align="center">My Waifu is Violet</h3>
+
 <div style="text-align:center;">
-  <img alt="waifu" width="250" height="400" src="waifu.png">
-  <img alt="waifu1" width="250" height="400" src="waifu1.png">
-  <img alt="waifu2" width="250" height="400" src="waifu2.png">
+  <h3 align="center">My Waifu is Violet</h3>
+  <img alt="waifu" width="250" height="400" src="waifu.gif">
+  <img alt="waifu1" width="250" height="400" src="waifu1.gif">
+  <img alt="waifu2" width="250" height="400" src="waifu2.gif">
+    <img alt="waifu3" width="250" height="400" src="waifu3.gif">
 </div>
