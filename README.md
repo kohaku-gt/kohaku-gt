@@ -1,5 +1,5 @@
 
-<img alt="Coding" width="900" height="400" align="center" src="f.gif">
+<img alt="Coding" width="1000" height="700" align="center" src="f.gif">
 <h1 align="center">Hi 👋, I'm Abdul Rahman Hafidz </h1>
 <h3 align="center"> Hanya Seorang Hamba Allah!!</h3>
 
