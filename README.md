@@ -55,6 +55,6 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kohaku-gt&show_icons=true&locale=en" alt="bayu1s" /></p>
 
 <h3 align="center">My Waifu is Violet</h3>
-<img align="right" alt="waifu" width="250" height="400" src="waifu.png">
-<img align="right" alt="waifu1" width="250" height="400" src="waifu1.png">
-<img align="right" alt="waifu2" width="250" height="400" src="waifu2.png">
+<img align="right" alt="waifu" width="250" height="400" src="waifu.gif">
+<img align="right" alt="waifu1" width="250" height="400" src="waifu1.gif">
+<img align="right" alt="waifu2" width="250" height="400" src="waifu2.gif">
