@@ -31,8 +31,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kohaku-gt&show_icons=true&locale=en&layout=compact" alt="bayu1s" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kohaku-gt&show_icons=true&locale=en" alt="bayu1s" /></p>
-<p>My Waifu is Violet hehe;V</p>
+
   <img align="right" alt="Coding" width="250" height="400" src="waifu.png">
   <img align="right" alt="Coding" width="250" height="400" src="waifu1.png">
 <img align="right" alt="Coding" width="250" height="400" src="waifu2.png">
+<p>My Waifu is Violet hehe;V</p>
 
