@@ -1,6 +1,6 @@
 
 <img align="center" alt="Coding" width="600" height="400" src="frieren fanart.jpg">
-<h1 align="center">Hi 👋, I'm Bayu Iswahyudi</h1>
+<h1 align="center">Hi 👋, I'm Abdul Rahman Hafidz </h1>
 <h3 align="center"> Hanya Seorang Hamba Allah!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayu1s&label=Profile%20views&color=129e00&style=plastic" alt="bayu1s" /> </p>
@@ -8,9 +8,12 @@
 
 - 👨‍💻 You can also check out my portfolio at [https://bayu1s.github.io/](https://bayu1s.github.io/)
 
-- 📫 How to reach me **iswahyudibayu016@gmail.com**
+- 📫 How to reach me **bakfiajelek@gmail.com**
 
-- ⚡ Fun fact **I think I am funny XD**
+- ⚡ Fun fact **I think my mind is weird and My Brain is always blank XD**
+  
+-  - I'm currently learning on Nurul Jadid Islamic Colage, exactley at Vacation High School Nurul Jadid
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
