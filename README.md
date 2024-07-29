@@ -35,5 +35,6 @@
   <img align="right" alt="Coding" width="250" height="400" src="waifu.png">
   <img align="right" alt="Coding" width="250" height="400" src="waifu1.png">
 <img align="right" alt="Coding" width="250" height="400" src="waifu2.png">
-<p>My Waifu is Violet hehe;V</p>
+
+<p align="center">My Waifu is Violet hehe;V</p>
 
