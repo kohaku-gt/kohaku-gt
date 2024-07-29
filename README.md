@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Rahman Hafidz </h1>
 <h3 align="center"> Hanya Seorang Hamba Allah!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bayu1s&label=Profile%20views&color=129e00&style=plastic" alt="bayu1s" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bayu1s&label=Profile%20views&color=129e00&style=plastic" alt="fio" /> </p>
 <img align="right" alt="Coding" width="250" height="400" src="fio.png">
 
 - 👨‍💻 You can also check out my portfolio at [https://bayu1s.github.io/](https://kohaku-gt.github.io/)
@@ -13,7 +13,7 @@
   
 -  I'm currently learning on Nurul Jadid Islamic Colage, exactley at Vacation High School Nurul Jadid
 
-<img alt="Coding" width="650" height="400" align="center" src="g.gif">
+<img alt="Coding" width="650" height="400" align="right" src="g.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
