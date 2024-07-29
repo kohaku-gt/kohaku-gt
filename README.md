@@ -1,4 +1,4 @@
-<img alt="Coding" width="1000" height="400" align="center" src="f.gif">
+<img alt="Coding" width="1000" height="200" align="center" src="f.gif">
 <h1 align="center">Hi 👋, I'm Abdul Rahman Hafidz </h1>
 <h3 align="center"> Hanya Seorang Hamba Allah!!</h3>
 <img alt="Coding" width="1000" height="400" align="center" src="g.gif">
