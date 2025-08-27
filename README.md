@@ -1,4 +1,3 @@
-<img alt="Coding" width="1000" height="300" align="center" src="f.gif">
 <h1 align="center">Hi 👋, I'm Abdul Rahman Hafidz </h1>
 <h3 align="center"> Hanya Seorang Hamba Allah!!</h3>
 
@@ -54,12 +53,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kohaku-gt&show_icons=true&locale=en&layout=compact" alt="bayu1s" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kohaku-gt&show_icons=true&locale=en" alt="bayu1s" /></p>
 
-
-<div style="text-align:center;">
-
-  <img alt="waifu" width="250" height="400" src="waifu.gif">
-  <img alt="waifu1" width="250" height="400" src="waifu1.gif">
-  <img alt="waifu2" width="250" height="400" src="waifu2.gif">
-    <img alt="waifu3" width="250" height="400" src="waifu3.gif">
-      <h3 align="center">My Waifu is Violet</h3>
-</div>
